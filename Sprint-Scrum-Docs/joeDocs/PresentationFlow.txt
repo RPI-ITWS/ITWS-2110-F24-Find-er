@@ -1,0 +1,78 @@
+Final to dos: 
+   Put Zap in Repo 
+   Cite Slides
+   Cite Repo 
+   Clean Repo
+   Validate pages (document validations)
+   Comment as much as possible 
+   Organize github
+   Readme Instructions 
+   Add pick any potential Matches up at Pubsafe: and give address to the website
+   Change adress on abt page to pubsafe: 110 Eighth St
+      Troy, NY  12180
+      United States
+   Make sure Midterm presentation is in Repo 
+   Add Id's to matches overview if have time 
+   Uncomment cooldown blocker on form handler 
+
+
+Demo Structure: 
+   Have 2 sessions going, and the database up. 
+
+   
+
+   one as Larry and one As Jack 
+   
+   Jack 1: 
+      Jack Stressed about loosing his Calculator, navigates to Finder as his friend told him that it was the best place to go
+      He checks our about and contact page out, noting the adress and phone number of pubsafe, 
+         Jack now has a good sense of what finder is about so he goes to make an account 
+
+      When making an account, Jack tries to use his person email but gets an error, make a note that we only want people in the RPI community to have acsess to this 
+      application for now, with expansio possible in the future. 
+
+      Jack then logs in a fills out a form for his calculator, he left one of the fields a bit too short and gets an error that it needs to be longer than 3 characters 
+      This allows for our matching algorithim to do his best work 
+
+      Uploads an image, Make a note about cloudinary and how that keeps our database lighter. 
+
+      Jack can't quite remember where he left it, so he puts multiple locations down because he can 
+
+      Submits the form, and now it shows up in Jacks Dashboards, click between the two showing what they do. There is no Match yet 
+
+   Marcus: 
+      Marcus then Finds Jack Calculator in the Libaray a little later on and brings it to pubsafe. 
+
+   Larry: 
+      When Marcus Gets to pubsafe, he gives the calculator to larry the pubsafe officer who is working at the time. 
+      Since Larry is a pubsafe Officer, he manages the database and was given a recorder code, show how this is implemented to the database and linked to his account. 
+      Larry already has an account but if he was signing in for the first time here would do so here -> same signup but with recorder code
+      He also has to enter his email for 2FA as an extra layer of security 
+
+      Once larry Signs in, he is capable of seeing all of the items currently in the Database and all of the possibile matches. He can see the Calculator that Jack 
+      just put in 
+
+      Now he goes and enters the Calculator that Marcus has given him, Jotting down the information for MArcus in a very easy to understand format. 
+
+      Once that form is submitted, Larry is brought to the matches page where he can see that what he just entered matched with another item in the lost_items Database
+
+      Have Derek and Heidi talk about whats going on here. 
+
+      Note that the message currently says available. 
+
+   Jack 2: 
+      We know go back to Jack who is still stressing about his calculator, he tries to add another lost item request because he is so anxious but that is blocked 
+      as Jack has a submission cooldown on his account. 
+         This is to prevent people from making lots of request to the database in order to fish for lost goods. 
+      he goes to his potential matches side and sees that there was a Match!!!
+      He heads to the adress told to him by Finder and meet with Larry 
+
+   Larry 2: 
+      When Larry sees jack, Jack tells him his lost Item ID and LArry navigates the Database to find the match. 
+      
+      He then clicks the Check button to indicate that this item has been found, Now, anyone else that matches with that item will be able to see that it was already claimed 
+      so it will be an invalid matching. 
+
+      Jack retrieves his item and it really happy now because he can ace his calc test. 
+
+
